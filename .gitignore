@@ -41,4 +41,10 @@ android/app/libs
 android/keystores/debug.keystore
 
 ios/Frameworks/FaceDetector/Frameworks
+ios/Frameworks/FaceDetector/Frameworks
+ios/Frameworks/BarcodeDetector
+ios/Frameworks/copy
+
+
+
 
